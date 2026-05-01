@@ -4,6 +4,12 @@
 
 ---
 
+## Business Impact
+
+> Complex customer behavior questions typically require a data analyst to query the data and a business analyst to interpret it — two specialists, hours of back-and-forth. This crew answers those questions in seconds by routing to the right specialist agent automatically, then synthesizing a unified response. A consulting firm in a notebook.
+
+---
+
 ## The Leap: From Agent to Crew
 
 The previous projects in this portfolio — `data-incident-agent` and `pricing-decision-agent` — are single agents. One agent observes, reasons, and acts. It is a generalist.
